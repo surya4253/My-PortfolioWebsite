@@ -1,0 +1,87 @@
+*{
+    font-family: "Shantell Sans", cursive;
+    padding: 0px;
+    margin: 0px;
+}
+   .self{
+    background-color: black;
+    color: antiquewhite;
+    margin: 30px;
+    padding: 10px;
+    border: solid red 2px;
+    border-radius: 30px;
+
+}
+.self h1,.self h2{
+    font-size: 36;
+}
+.conbutton{
+    background-color: rgb(81, 40, 204);
+    color:aliceblue;
+    padding: 5px;
+    border-style: solid 2px;
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 15px;
+}
+   
+.about{
+    margin-top: 5px;
+    margin-left: 30px;
+    padding: 3px;
+}
+.skills{
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 10px;
+    background-color: rgb(53, 53, 181);
+    display: inline-block;
+    width: 100px;
+    border-radius: 10px; 
+    vertical-align: top; 
+}
+.project{
+    margin-top: 10px;
+    margin-left: 2px;
+    padding: 10px;
+    background-color: orange;
+    display: inline-block;
+    
+    border-radius: 15px;
+    vertical-align: top; 
+}
+.skills li{
+    list-style: none;
+}
+.skills h3,.project h3{
+    font-size: 30;
+}
+.project h4{
+    font-size: 26;
+}
+.lang li{
+    list-style: none;
+}
+.lang{
+    background-color: forestgreen;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 10px;
+     display: -ms-inline-grid;
+     width: 660px;
+     border-radius: 15px;
+
+}
+.contact{
+    margin-top: 10px;
+    margin-left: 30px;
+    background-color: black;
+    color: antiquewhite;
+    border: solid red 2px;
+    border-radius: 30px;
+    padding: 10px;
+    width: 1450px;
+
+}
+
